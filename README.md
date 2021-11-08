@@ -31,7 +31,7 @@
 <img align="left" alt="Qiskit" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/393px-Qiskit-Logo.svg.png" />
 <img align="left" alt="Scikit-learn" width="120px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />
 <img align="left" alt="TensorFlow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png" />
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+
 
 
 
