@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on Jupyter notebook
 - 🥅 2021 Goals: Write Cobol
 - ❤️ STEM, Finance, AI , Chili, Cryptocurrency, Read books, Watch documentarys
-- ⚡ Fun fact: I once had a talking budgie
+- ⚡ Fun fact: I once had a talking budgie:parrot:
 
 <br />
 
