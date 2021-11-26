@@ -41,7 +41,7 @@
 <br />
 <!--
 ![JonasHagstrom79 github stats](https://github-readme-stats.vercel.app/api?username=JonasHagstrom79&theme=vue&show_icons=true&count_private=true&hide_border=true) --->
-[![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasHagstrom79)](https://github.com/JonasHagstrom79/github-readme-stats)
+![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasHagstrom79)](https://github.com/JonasHagstrom79/github-readme-stats)
 
 
 
