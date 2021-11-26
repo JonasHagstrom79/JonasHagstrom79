@@ -39,12 +39,14 @@
 <br />
 <br />
 <br />
-<!--
-![JonasHagstrom79 github stats](https://github-readme-stats.vercel.app/api?username=JonasHagstrom79&theme=vue&show_icons=true&count_private=true&hide_border=true) --->
-<!--
+
+![JonasHagstrom79's github stats](https://github-readme-stats.vercel.app/api?username=JonasHagstrom79&theme=vue&show_icons=true&count_private=true&hide_border=true)
+
+<!---
 ![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasHagstrom79)](https://github.com/JonasHagstrom79/github-readme-stats) --->
 
-![Timmy-Bergkvist github stats](https://github-readme-stats.vercel.app/api?username=Timmy-Bergkvist&theme=vue&show_icons=true&count_private=true&hide_border=true)
+<!---
+![Timmy-Bergkvist github stats](https://github-readme-stats.vercel.app/api?username=Timmy-Bergkvist&theme=vue&show_icons=true&count_private=true&hide_border=true) --->
 
 
 
