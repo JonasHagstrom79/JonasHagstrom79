@@ -43,8 +43,8 @@
 ![JonasHagstrom79 github stats](https://github-readme-stats.vercel.app/api?username=JonasHagstrom79&theme=vue&show_icons=true&count_private=true&hide_border=true) --->
 <!--
 ![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasHagstrom79)](https://github.com/JonasHagstrom79/github-readme-stats) --->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
+![Timmy-Bergkvist github stats](https://github-readme-stats.vercel.app/api?username=Timmy-Bergkvist&theme=vue&show_icons=true&count_private=true&hide_border=true)
 
 
 
