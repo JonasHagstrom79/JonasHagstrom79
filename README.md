@@ -7,10 +7,10 @@
 
 ### I'm a Student, STEM nerd and AI, Quantum Computing, Cybersecurity and Cryptocurrency Enthusiast!
 
-- ✏️ I’m currently learning Quantum Computing
+- ✏️ I’m currently learning Ethereum and Solidity
 - 🔭 I’m currently working on Jupyter notebook
-- 🥅 2021 Goals: Write Cobol
-- ❤️ STEM, Finance, AI , Chili, Cryptocurrency, Read books, Watch documentarys
+- 🥅 2021 Goals: Write Cobol, Solidity, 
+- ❤️ STEM, Finance, AI , Quantum Computing, Cryptocurrency, Read books, Watch documentarys, Chili
 - ⚡ Fun fact: I once had a talking budgie:parrot:
 
 <br />
