@@ -8,8 +8,9 @@
 ### I'm a Student, STEM nerd and AI, Quantum Computing, Cybersecurity and Cryptocurrency Enthusiast!
 
 - ✏️ I’m currently learning Ethereum and Solidity
-- 🔭 I’m currently working on Jupyter notebook
-- 🥅 2021 Goals: Write Cobol, Solidity 
+- 🔭 I’m currently working on a ethereum project
+- 🥅 2021 Goals: Write Cobol, Solidity
+- 🥅 2022 Goals: Create a mobile game, create a 2d game, learn quantum physics and linear algebra
 - ❤️ STEM, Finance, AI , Quantum Computing, Cryptocurrency, Read books, Watch documentarys, Chili
 - ⚡ Fun fact: I once had a talking budgie:parrot:
 
