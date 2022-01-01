@@ -10,7 +10,7 @@
 - ✏️ I’m currently learning Ethereum and Solidity
 - 🔭 I’m currently working on a ethereum project
 - 🥅 2021 Goals: Write Cobol, Solidity
-- 🥅 2022 Goals: Create a mobile game, create a 2d game, learn quantum physics and linear algebra
+- 🥅 2022 Goals: Create a mobile game, create a 2d game, learn basic quantum physics and linear algebra
 - ❤️ STEM, Finance, AI , Quantum Computing, Cryptocurrency, Read books, Watch documentarys, Chili
 - ⚡ Fun fact: I once had a talking budgie:parrot:
 
