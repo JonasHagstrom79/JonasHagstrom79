@@ -7,7 +7,7 @@
 
 ### I'm a Student, STEM nerd and AI, Quantum Computing, Cybersecurity and Cryptocurrency Enthusiast!
 
-- ✏️ I’m currently learning Ethereum and Solidity
+- ✏️ I’m currently learning TensorFlow and PyTorch Lightning
 - 🔭 I’m currently working on a blazor project
 - 🥅 2022 Goals: Create a mobile game, create a 2d game, create a blazor application, learn basic quantum physics and linear algebra
 - 🥅 2021 Goals: Write Cobol, Solidity
