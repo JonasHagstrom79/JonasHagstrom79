@@ -16,7 +16,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasHagstrom79&langs_count=10)](https://github.com/JonasHagstrom79/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasHagstrom79)](https://github.com/JonasHagstrom79/github-readme-stats)
 
 ### Languages and Tools I use:
 
