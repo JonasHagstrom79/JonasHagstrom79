@@ -16,6 +16,8 @@
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasHagstrom79&langs_count=10)](https://github.com/JonasHagstrom79/github-readme-stats)
+
 ### Languages and Tools I use:
 
 <img align="left" alt="Visual Studio" width="40px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
