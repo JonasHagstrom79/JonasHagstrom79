@@ -21,12 +21,13 @@
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasHagstrom79&layout=compact&langs_count=10&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff) --->
 
 ### Languages and Tools I use:
-
+<!---
 <img align="left" alt="Visual Studio" width="40px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
 <img align="left" alt="Pycharm" width="40px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" />
 <img align="left" alt="Anaconda Navigator" width="40px" src="https://www.clipartmax.com/png/full/349-3490136_anaconda-icon-anaconda-python-icon.png" />
 <img align="left" alt="Jupyter Notebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+--->
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
