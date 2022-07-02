@@ -13,7 +13,7 @@
 - 🥅 2021 Goals: Write Cobol, Solidity
 - ❤️ STEM, Finance, AI , Quantum Computing, Cryptocurrency, Read books, Watch documentarys, Chili
 - ⚡ Fun fact: I once had a talking budgie:parrot:
-- :Book: My last read book: Geometry, relativity and the forth dimension by Rudolf v. B. Rucker
+- :blue_book: My last read book: *Geometry, relativity and the forth dimension* by Rudolf v. B. Rucker
 
 <br />
 <!---
