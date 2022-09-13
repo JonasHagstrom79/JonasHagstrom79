@@ -16,10 +16,10 @@
 - :blue_book: My last read book: *Geometry, relativity and the forth dimension* by Rudolf v. B. Rucker
 
 <br />
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasHagstrom79&langs_count=10)](https://github.com/JonasHagstrom79/github-readme-stats) --->
-<!---
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasHagstrom79&layout=compact&langs_count=10&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff) --->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasHagstrom79&langs_count=10)](https://github.com/JonasHagstrom79/github-readme-stats) 
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasHagstrom79&layout=compact&langs_count=10&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff) 
 
 ### Languages and Tools I use:
 <!---
