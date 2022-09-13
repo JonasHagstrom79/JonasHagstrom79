@@ -19,8 +19,8 @@
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasHagstrom79&langs_count=10)](https://github.com/JonasHagstrom79/github-readme-stats) --->
 <!---
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasHagstrom79&layout=compact&langs_count=10&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff) 
---->
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasHagstrom79&layout=compact&langs_count=10&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff) --->
+
 ### Languages and Tools I use:
 <!---
 <img align="left" alt="Visual Studio" width="40px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
