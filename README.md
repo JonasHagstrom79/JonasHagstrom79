@@ -8,7 +8,8 @@
 ### I'm a Student, STEM nerd and AI, Quantum Computing, Cybersecurity and Cryptocurrency Enthusiast!
 
 - ✏️ I’m currently learning TensorFlow and PyTorch Lightning
-- 🔭 I’m currently working with Nvidia Triton
+- 🔭 I’m currently working with Android Studio
+- 🥅 2023 Goals: Tensorflow, PyTorch Lightning.
 - 🥅 2022 Goals: Create a mobile game, create a 2d game, create a blazor application, learn basic quantum physics and linear algebra
 - 🥅 2021 Goals: Write Cobol, Solidity
 - ❤️ STEM, Finance, AI , Quantum Computing, Cryptocurrency, Read books, Watch documentarys, Chili
