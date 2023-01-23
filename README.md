@@ -2,7 +2,7 @@
 ### Hi there, I'm Jonas:smiley: I'm living i Sweden:sweden:
 
 
-[![Linkedin: jonas hagström](https://img.shields.io/badge/-jonas-hagstr%C3%B6m-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-hagstr%C3%B6m)](https://www.linkedin.com/in/jonas-hagstr%C3%B6m)
+[![Linkedin: Jonas Hagström](https://img.shields.io/badge/-jonas-hagstr%C3%B6m-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-hagstr%C3%B6m)](https://www.linkedin.com/in/jonas-hagstr%C3%B6m)
 
 
 ### I'm a Student, STEM nerd and AI, Quantum Computing, Cybersecurity and Cryptocurrency Enthusiast!
