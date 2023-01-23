@@ -1,9 +1,9 @@
 
 ### Hi there, I'm Jonas:smiley: I'm living i Sweden:sweden:
 
-<!---
-[![Linkedin: timmy-b-317095193](https://img.shields.io/badge/-Timmy%20Bergkvist-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timmy-b-317095193/)](https://www.linkedin.com/in/timmy-b-317095193/)
---->
+
+[![Linkedin: jonas-hagstr%C3%B6m](https://img.shields.io/badge/-jonas-hagstr%C3%B6m-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-hagstr%C3%B6m)](https://www.linkedin.com/in/jonas-hagstr%C3%B6m)
+
 
 ### I'm a Student, STEM nerd and AI, Quantum Computing, Cybersecurity and Cryptocurrency Enthusiast!
 
