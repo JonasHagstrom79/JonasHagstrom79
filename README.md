@@ -1,5 +1,5 @@
 
-### Hi there, I'm Jonas:smiley: I'm living i Sweden
+### Hi there, I'm Jonas:smiley: I'm living i Sweden🇸🇪
 
 
 [![Linkedin: Jonas Hagström](https://img.shields.io/badge/-jonas-hagstr%C3%B6m-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-hagstr%C3%B6m)](https://www.linkedin.com/in/jonas-hagstr%C3%B6m)
@@ -14,7 +14,7 @@
 - 🥅 2022 Goals: Create a mobile game, create a 2d game, create a blazor application, learn basic quantum physics and linear algebra
 - 🥅 2021 Goals: Write Cobol, Solidity
 - ❤️ STEM, Finance, AI , Quantum Computing, Cryptocurrency, Read books, Watch documentarys, Chili
-- ⚡ Fun fact: I once had a talking budgie:parrot:
+- ⚡ Fun fact: I once had a talking budgie🦜
 - :blue_book: My last read book: *Geometry, relativity and the forth dimension* by Rudolf v. B. Rucker
 
 <br />
