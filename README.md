@@ -7,8 +7,8 @@
 
 ### I'm a STEM nerd and AI, Quantum Computing, Cybersecurity and Cryptocurrency Enthusiast!
 
-- ✏️ I’m currently learning TensorFlow and PyTorch Lightning
-- 🔭 I’m currently working with Reinforced Learning
+- ✏️ I’m currently learning Quantum Machine Learning
+- 🔭 I’m currently working with Quantum Machine Learning
 - 🥅 2024 Goals: Reinforced Learning, Robotics, Apache Spark, Neo4j&&Cypher +More Tensorflow && PyTorch.
 - 🥅 2023 Goals: Tensorflow, PyTorch Lightning.
 - 🥅 2022 Goals: Create a mobile game, create a 2d game, create a blazor application, learn basic quantum physics and linear algebra
