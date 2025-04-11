@@ -9,13 +9,14 @@
 
 - ✏️ I’m currently learning Quantum Machine Learning
 - 🔭 I’m currently working with Quantum Machine Learning
+- 🥅 2025 Goals: Quantum machine learning, Reinforced Learning, Computer vision.
 - 🥅 2024 Goals: Reinforced Learning, Robotics, Apache Spark, Neo4j&&Cypher +More Tensorflow && PyTorch.
 - 🥅 2023 Goals: Tensorflow, PyTorch Lightning.
 - 🥅 2022 Goals: Create a mobile game, create a 2d game, create a blazor application, learn basic quantum physics and linear algebra
 - 🥅 2021 Goals: Write Cobol, Solidity
 - ❤️ STEM, Finance, AI , Quantum Computing, Cryptocurrency, Read books, Watch documentarys, Chili
 - ⚡ Fun fact: I once had a talking budgie🦜
-- :blue_book: My last read book: *Geometry, relativity and the forth dimension* by Rudolf v. B. Rucker
+- :blue_book: My last read book: *Dokkodo* by 宮本 武蔵(Miyamoto Musashi)
 
 <br />
 <!---
