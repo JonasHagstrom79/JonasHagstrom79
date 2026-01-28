@@ -8,7 +8,7 @@
 ### I'm a STEM nerd and AI, Quantum Computing, Cybersecurity and Cryptocurrency Enthusiast!
 
 - ✏️ I’m currently learning Quantum Machine Learning
-- 🔭 I’m currently working with Quantum Machine Learning
+- 🔭 I’m currently doing Cybersecurity
 - 🥅 2026 Goals: PennyLane && PyTorch.
 - 🥅 2025 Goals: Quantum machine learning, Reinforced Learning, Computer vision.
 - 🥅 2024 Goals: Reinforced Learning, Robotics, Apache Spark, Neo4j&&Cypher +More Tensorflow && PyTorch.
@@ -18,7 +18,7 @@
 - ❤️ STEM, Finance, AI , Quantum Computing, Cryptocurrency, Read books, Watch documentarys, Chili
 - ⚡ Fun fact: I once had a talking budgie🦜
 - :blue_book: My last read book: *Dokkodo* by 宮本 武蔵(Miyamoto Musashi)
-- "If it's not right, don't do it. If it's not true, dont say it" - Marcus Arelius
+- *"If it's not right, don't do it. If it's not true, don't say it"* - Marcus Arelius
 
 <br />
 <!---
