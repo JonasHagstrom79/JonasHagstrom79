@@ -9,7 +9,7 @@
 
 - ✏️ I’m currently learning Quantum Machine Learning
 - 🔭 I’m currently doing Cybersecurity
-- 🥅 2026 Goals: PennyLane && PyTorch.
+- 🥅 2026 Goals: PennyLane, PyTorch and Deep Reinforce Learning.
 - 🥅 2025 Goals: Quantum machine learning, Reinforced Learning, Computer vision.
 - 🥅 2024 Goals: Reinforced Learning, Robotics, Apache Spark, Neo4j&&Cypher +More Tensorflow && PyTorch.
 - 🥅 2023 Goals: Tensorflow, PyTorch Lightning.
