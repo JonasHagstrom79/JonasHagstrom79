@@ -44,11 +44,11 @@
 <img align="left" alt="Cobol" width="40px" src="https://logodix.com/logo/2100260.png" />
 --->
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="PennyLane" width="40px" src="https://github.com/pennyLaneAI" />
+<img align="left" alt="PennyLane" width="40px" src="https://avatars.githubusercontent.com/u/64286425?s=200&v=4" />
 <img align="left" alt="Qiskit" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" />
 <img align="left" alt="TensorFlow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png" />
 <img align="left" alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
-<!--- <img align="left" alt="Scikit-learn" height="40px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" /> --->
+<img align="left" alt="Scikit-learn" height="40px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />
 
 
 
