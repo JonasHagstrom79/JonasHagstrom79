@@ -1,25 +1,25 @@
 
-### Hi there, I'm Jonas😃 I'm living i Sweden🇸🇪
+### Hi there, I'm Jonas😃 I'm living in Sweden🇸🇪
 
 
 [![Linkedin: Jonas Hagström](https://img.shields.io/badge/-jonas--hagstrom-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-hagstrom)
-(https://www.linkedin.com/in/jonas-hagstr%C3%B6m)
+<!---(https://www.linkedin.com/in/jonas-hagstr%C3%B6m)--->
 
 
 ### I'm a STEM nerd and AI, Quantum Computing, Cybersecurity and Cryptocurrency Enthusiast!
 
 - ✏️ I’m currently learning Quantum Machine Learning
-- 🔭 I’m currently doing Cybersecurity
-- 🥅 2026 Goals: PennyLane, PyTorch and Deep Reinforce Learning.
+- 🔭 I’m currently diving into Cybersecurity
+- 🥅 2026 Goals: PennyLane, PyTorch and Deep Reinforcement Learning.
 - 🥅 2025 Goals: Quantum machine learning, Reinforced Learning, Computer vision.
 - 🥅 2024 Goals: Reinforced Learning, Robotics, Apache Spark, Neo4j&&Cypher +More Tensorflow && PyTorch.
 - 🥅 2023 Goals: Tensorflow, PyTorch Lightning.
 - 🥅 2022 Goals: Create a mobile game, create a 2d game, create a blazor application, learn basic quantum physics and linear algebra
 - 🥅 2021 Goals: Write Cobol, Solidity
-- ❤️ STEM, Finance, AI , Quantum Computing, Cryptocurrency, Read books, Watch documentarys, Chili
+- ❤️ STEM, Finance, AI , Quantum Computing, Cryptocurrency, Watching documentaries, Reading books, Solitude
 - ⚡ Fun fact: I once had a talking budgie🦜
 - :blue_book: My last read book: *Dokkodo* by 宮本 武蔵(Miyamoto Musashi)
-- *"If it's not right, don't do it. If it's not true, don't say it"* - Marcus Arelius
+- *"If it's not right, don't do it. If it's not true, don't say it"* - Marcus Aurelius
 
 <br />
 <!---
@@ -51,7 +51,25 @@
 <img align="left" alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 <img align="left" alt="Scikit-learn" height="40px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />
 
+**Other technologies I have experience with:**
+<p align="left">
+  <img alt="C#" width="30px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />&nbsp;&nbsp;
+  <img alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" />&nbsp;&nbsp;
+  <img alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" />&nbsp;&nbsp;
+  <img alt="Solidity" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/386px-Solidity_logo.svg.png" />
 
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j_&_Cypher-018BFC?style=flat-square&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML_&_CSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
+</p>
 
 
 
