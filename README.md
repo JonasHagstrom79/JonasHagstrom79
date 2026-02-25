@@ -8,9 +8,9 @@
 - ✏️ I’m currently learning Quantum Machine Learning
 - 🔭 I’m currently diving into Cybersecurity
 - 🥅 **2026 Goals:** PennyLane, PyTorch and Deep Reinforcement Learning.
-- 🥅 **2025 Goals:** Quantum machine learning, Reinforcement Learning, Computer vision.
-- 🥅 **2024 Goals:** Reinforcement Learning, Robotics, Apache Spark, Neo4j && Cypher + More Tensorflow && PyTorch.
-- 🥅 **2023 Goals:** Tensorflow, PyTorch Lightning.
+- 🥅 2025 Goals: Quantum machine learning, Reinforcement Learning, Computer vision.
+- 🥅 2024 Goals: Reinforcement Learning, Robotics, Apache Spark, Neo4j && Cypher + More Tensorflow && PyTorch.
+- 🥅 2023 Goals: Tensorflow, PyTorch Lightning.
 - 🥅 2022 Goals: Create a mobile game, create a 2d game, create a blazor application, learn basic quantum physics and linear algebra
 - 🥅 2021 Goals: Write Cobol, Solidity
 - ❤️ **Interests:** STEM, Finance, AI, Quantum Computing, Cryptocurrency, Watching documentaries, Reading books, Solitude
