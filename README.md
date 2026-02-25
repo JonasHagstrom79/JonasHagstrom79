@@ -51,7 +51,8 @@
 <img align="left" alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 <img align="left" alt="Scikit-learn" height="40px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />
 <br />
-**Other technologies I have experience with:**
+##Other technologies I have experience with:
+<br />
 <p align="left">
   <img alt="C#" width="30px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />&nbsp;&nbsp;
   <img alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" />&nbsp;&nbsp;
