@@ -27,7 +27,9 @@
   <img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />&nbsp;&nbsp;&nbsp;
   <img alt="PennyLane" width="40px" src="https://avatars.githubusercontent.com/u/64286425?s=200&v=4" />&nbsp;&nbsp;&nbsp;
   <img alt="Qiskit" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" />&nbsp;&nbsp;&nbsp;
-  <img alt="TensorFlow" width="40px" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+   <img alt="TensorFlow" width="40px"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
+  />&nbsp;&nbsp;&nbsp;
   <img alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" />&nbsp;&nbsp;&nbsp;
   <img alt="Scikit-learn" height="40px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />  
 </p>
