@@ -30,6 +30,9 @@
   <img alt="TensorFlow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png" />&nbsp;&nbsp;&nbsp;
   <img alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" />&nbsp;&nbsp;&nbsp;
   <img alt="Scikit-learn" height="40px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white" />
 </p>
 
 <br />
