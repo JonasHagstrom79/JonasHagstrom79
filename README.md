@@ -29,10 +29,7 @@
   <img alt="Qiskit" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" />&nbsp;&nbsp;&nbsp;
   <img alt="TensorFlow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png" />&nbsp;&nbsp;&nbsp;
   <img alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" />&nbsp;&nbsp;&nbsp;
-  <img alt="Scikit-learn" height="40px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white" />
+  <img alt="Scikit-learn" height="40px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />  
 </p>
 
 <br />
@@ -59,6 +56,11 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML_&_CSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white" />
 </p>
 
 <br />
