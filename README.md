@@ -32,7 +32,7 @@
   />&nbsp;&nbsp;&nbsp;
   <img alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" />&nbsp;&nbsp;&nbsp;
   <img alt="Scikit-learn" height="40px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />  
-  <img alt="RedAmon" width="40px" src="https://raw.githubusercontent.com/samugit83/redamon/master/assets/logo.png" />
+  <img alt="RedAmon" width="80px" src="https://raw.githubusercontent.com/samugit83/redamon/master/assets/logo.png" />
 </p>
 
 <br />
